@@ -1,0 +1,673 @@
+28/02/24 11:47:03 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:47:29 DEBUG 240604 utils.py 107: Clustering done. Time taken 25.526 secs
+28/02/24 11:47:29 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1810.7 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1797.73 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1703.55 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1685 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1649.94 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1642.42 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1636.33 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1636.33 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1636.13 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1635.84 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1634.76 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1634.53 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1634.28 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1633.69 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1633.69 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1633.69 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1633.69 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1633.68 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1633.68 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1633.68 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1633.68 (Improved!)
+28/02/24 11:47:29 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1633.68 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1633.68 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1633.68 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1633.68 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1633.68 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1633.68 
+28/02/24 11:47:29 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1633.68 
+28/02/24 11:47:29 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5  9 10 13] perm_pred [2 0 4 3 6 1 5]
+28/02/24 11:47:29 CRITICAL 240604 utils.py 171: Results for 0003: Precision: 0.31213274598121643, Recall: 0.5885280312556694, IoU: 0.21978283110244276, Step wise Results: {0: {'MoF': 0.34829859255300194, 'IoU': 0.2891156462585034, 'prec': 0.62983245}, 1: {'MoF': 1.0, 'IoU': 0.21551724137931033, 'prec': 0.21551724}, 2: {'MoF': 0.4679860302677532, 'IoU': 0.2476894639556377, 'prec': 0.34476843}, 3: {'MoF': 0.826865671641791, 'IoU': 0.1255666364460562, 'prec': 0.12895717}, 4: {'MoF': 0.5918367346938775, 'IoU': 0.2285263987391647, 'prec': 0.27128157}, 5: {'MoF': 0.42618384401114207, 'IoU': 0.1881918819188192, 'prec': 0.2520593}, 6: {'MoF': 0.45852534562211983, 'IoU': 0.24387254901960784, 'prec': 0.3425129}}
+28/02/24 11:47:29 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5  9 10 13] perm_pred [2 0 4 3 6 1 5]
+28/02/24 11:48:45 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:49:09 DEBUG 240604 utils.py 107: Clustering done. Time taken 24.048 secs
+28/02/24 11:49:09 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1501.39 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1449.21 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1440.2 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1394.38 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1384.4 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1382.29 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1379.05 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1379.05 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1378.95 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1378.45 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1378.45 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1378.36 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1377.07 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1377.07 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1377.07 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1377.07 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1377.07 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1377.07 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1377 (Improved!)
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1377 
+28/02/24 11:49:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1377 
+28/02/24 11:49:09 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5  8 15 17] perm_pred [3 4 1 0 2 6 5]
+28/02/24 11:49:09 CRITICAL 240604 utils.py 171: Results for 0004: Precision: 0.3009624183177948, Recall: 0.638388755645107, IoU: 0.20871469371961324, Step wise Results: {0: {'MoF': 0.2946490618485059, 'IoU': 0.25133372851215174, 'prec': 0.63095236}, 1: {'MoF': 0.21542940320232898, 'IoU': 0.10511363636363637, 'prec': 0.1703107}, 2: {'MoF': 0.7687224669603524, 'IoU': 0.35942327497425336, 'prec': 0.40300232}, 3: {'MoF': 1.0, 'IoU': 0.12796208530805686, 'prec': 0.12796208}, 4: {'MoF': 0.7233201581027668, 'IoU': 0.1742857142857143, 'prec': 0.18673469}, 5: {'MoF': 0.4666001994017946, 'IoU': 0.290863890615289, 'prec': 0.43575418}, 6: {'MoF': 1.0, 'IoU': 0.15202052597819116, 'prec': 0.15202053}}
+28/02/24 11:49:09 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5  8 15 17] perm_pred [3 4 1 0 2 6 5]
+28/02/24 11:49:38 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:49:52 DEBUG 240604 utils.py 107: Clustering done. Time taken 13.968 secs
+28/02/24 11:49:52 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 723.894 (Improved!)
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 661.911 (Improved!)
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 652.406 (Improved!)
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 640.526 (Improved!)
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 639.289 (Improved!)
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 639.289 (Improved!)
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 639.289 (Improved!)
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 639.289 
+28/02/24 11:49:52 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 639.289 
+28/02/24 11:49:52 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5 13 14 15] perm_pred [1 5 6 2 3 4 0]
+28/02/24 11:49:52 CRITICAL 240604 utils.py 171: Results for 0006: Precision: 0.19244445434638432, Recall: 0.4324712002538078, IoU: 0.16096769360838864, Step wise Results: {0: {'MoF': 0.37492279184681904, 'IoU': 0.215937388829598, 'prec': 0.33740968}, 1: {'MoF': 0.0, 'IoU': 0.0, 'prec': 0}, 2: {'MoF': 0.0, 'IoU': 0.0, 'prec': 0}, 3: {'MoF': 0.75, 'IoU': 0.14673913043478262, 'prec': 0.15428571}, 4: {'MoF': 0.4397905759162304, 'IoU': 0.2079207920792079, 'prec': 0.28282827}, 5: {'MoF': 0.46258503401360546, 'IoU': 0.11092985318107668, 'prec': 0.12734082}, 6: {'MoF': 1.0, 'IoU': 0.4452466907340554, 'prec': 0.4452467}}
+28/02/24 11:49:52 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5 13 14 15] perm_pred [1 5 6 2 3 4 0]
+28/02/24 11:51:08 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:51:33 DEBUG 240604 utils.py 107: Clustering done. Time taken 24.911 secs
+28/02/24 11:51:33 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1666.49 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1580.89 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1564.7 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1556.92 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1539.3 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1521.33 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1510.6 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1510.6 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1510.6 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1509.79 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1505.65 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1502.48 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1500 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1500 
+28/02/24 11:51:33 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1500 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1500 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1499.99 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1499.88 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1499.88 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1499.88 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1499.88 (Improved!)
+28/02/24 11:51:33 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1499.88 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1499.88 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1499.88 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1499.88 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1499.88 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1499.88 
+28/02/24 11:51:33 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1499.88 
+28/02/24 11:51:33 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2 10 12 13 15] perm_pred [1 0 5 3 6 2 4]
+28/02/24 11:51:33 CRITICAL 240604 utils.py 171: Results for 0007: Precision: 0.20661982893943787, Recall: 0.5882567276409796, IoU: 0.13746573628400327, Step wise Results: {0: {'MoF': 0.1810074318744839, 'IoU': 0.15808452329438916, 'prec': 0.5552178}, 1: {'MoF': 0.29207920792079206, 'IoU': 0.10059676044330776, 'prec': 0.1330327}, 2: {'MoF': 0.3924050632911392, 'IoU': 0.13765541740674955, 'prec': 0.17494357}, 3: {'MoF': 0.7333333333333333, 'IoU': 0.14779270633397312, 'prec': 0.15618661}, 4: {'MoF': 1.0, 'IoU': 0.18076109936575052, 'prec': 0.1807611}, 5: {'MoF': 0.6391437308868502, 'IoU': 0.10250122609122118, 'prec': 0.1087975}, 6: {'MoF': 0.8798283261802575, 'IoU': 0.13486842105263158, 'prec': 0.13739946}}
+28/02/24 11:51:33 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2 10 12 13 15] perm_pred [1 0 5 3 6 2 4]
+28/02/24 11:53:07 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:53:30 DEBUG 240604 utils.py 107: Clustering done. Time taken 23.288 secs
+28/02/24 11:53:30 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1437.51 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1327.26 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1312.1 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1303.52 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1300.08 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1292.69 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1286.13 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1286.13 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1285.84 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1284.51 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1284.04 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1281.56 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1280.07 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1279.02 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1279.02 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1279.02 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1278.83 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1278.83 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1278.74 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1278.05 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1278.05 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1278.05 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1278.05 (Improved!)
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 171: Cycle 4...
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1278.05 
+28/02/24 11:53:30 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1278.05 
+28/02/24 11:53:30 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  8 12 14 15] perm_pred [0 5 4 2 6 3 1]
+28/02/24 11:53:30 CRITICAL 240604 utils.py 171: Results for 0008: Precision: 0.3051360547542572, Recall: 0.675510624649452, IoU: 0.21445291162035263, Step wise Results: {0: {'MoF': 0.2597290905181681, 'IoU': 0.23195084485407066, 'prec': 0.6844193}, 1: {'MoF': 0.6895306859205776, 'IoU': 0.4120819848975189, 'prec': 0.5059603}, 2: {'MoF': 0.9224489795918367, 'IoU': 0.2516703786191537, 'prec': 0.25711036}, 3: {'MoF': 0.8062015503875969, 'IoU': 0.11899313501144165, 'prec': 0.12249705}, 4: {'MoF': 1.0, 'IoU': 0.16536458333333334, 'prec': 0.16536458}, 5: {'MoF': 0.35135135135135137, 'IoU': 0.16049382716049382, 'prec': 0.22807017}, 6: {'MoF': 0.6993127147766323, 'IoU': 0.1606156274664562, 'prec': 0.17253074}}
+28/02/24 11:53:30 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  8 12 14 15] perm_pred [0 5 4 2 6 3 1]
+28/02/24 11:54:02 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:54:15 DEBUG 240604 utils.py 107: Clustering done. Time taken 12.731 secs
+28/02/24 11:54:15 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 761.727 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 720.481 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 685.929 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 681.237 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 666.828 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 661.77 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 659.564 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 659.564 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 658.934 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 658.49 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 657.987 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 657.105 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 656.485 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 656.485 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 656.485 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 656.485 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 656.485 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 655.964 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 655.964 (Improved!)
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 655.964 
+28/02/24 11:54:15 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 655.964 
+28/02/24 11:54:15 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6  9 11 15] perm_pred [2 0 1 4 6 5 3]
+28/02/24 11:54:15 CRITICAL 240604 utils.py 171: Results for 0009: Precision: 0.2720472195318767, Recall: 0.678830106038497, IoU: 0.20670707010865666, Step wise Results: {0: {'MoF': 0.2625994694960212, 'IoU': 0.22427184466019418, 'prec': 0.6057692}, 1: {'MoF': 0.0, 'IoU': 0.0, 'prec': 0}, 2: {'MoF': 1.0, 'IoU': 0.16906474820143885, 'prec': 0.16906475}, 3: {'MoF': 1.0, 'IoU': 0.15515151515151515, 'prec': 0.15515152}, 4: {'MoF': 0.8638743455497382, 'IoU': 0.3533190578158458, 'prec': 0.37414965}, 5: {'MoF': 1.0, 'IoU': 0.2682926829268293, 'prec': 0.2682927}, 6: {'MoF': 0.6253369272237197, 'IoU': 0.27684964200477324, 'prec': 0.3319027}}
+28/02/24 11:54:15 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6  9 11 15] perm_pred [2 0 1 4 6 5 3]
+28/02/24 11:55:19 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:55:42 DEBUG 240604 utils.py 107: Clustering done. Time taken 22.744 secs
+28/02/24 11:55:42 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1385.63 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1376.36 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1366.58 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1344.56 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1323.23 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1319.59 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1314.34 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1314.34 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1312.25 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1310.72 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1307.27 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1307.1 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1305.84 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1305.82 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1305.82 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1305.62 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1305.61 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1305.56 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1305.55 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1305.55 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1305.55 
+28/02/24 11:55:42 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1305.55 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1305.52 (Improved!)
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 171: Cycle 4...
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1305.52 
+28/02/24 11:55:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1305.52 
+28/02/24 11:55:42 CRITICAL 240604 metrics.py  67: perm_gt [ 0  2  6  8  9 10 17] perm_pred [5 4 1 6 2 3 0]
+28/02/24 11:55:42 CRITICAL 240604 utils.py 171: Results for 0010: Precision: 0.20483703911304474, Recall: 0.6046608461496922, IoU: 0.13966595378041444, Step wise Results: {0: {'MoF': 0.1870748299319728, 'IoU': 0.16262060379707438, 'prec': 0.55437666}, 1: {'MoF': 0.6039325842696629, 'IoU': 0.1615326821938392, 'prec': 0.18067227}, 2: {'MoF': 0.5638297872340425, 'IoU': 0.10009442870632672, 'prec': 0.10849539}, 3: {'MoF': 1.0, 'IoU': 0.13944723618090452, 'prec': 0.13944724}, 4: {'MoF': 0.5909090909090909, 'IoU': 0.14412416851441243, 'prec': 0.16009852}, 5: {'MoF': 0.7052896725440806, 'IoU': 0.15882019285309132, 'prec': 0.17010936}, 6: {'MoF': 0.5815899581589958, 'IoU': 0.1110223642172524, 'prec': 0.120659724}}
+28/02/24 11:55:42 CRITICAL 240604 metrics.py  67: perm_gt [ 0  2  6  8  9 10 17] perm_pred [5 4 1 6 2 3 0]
+28/02/24 11:56:42 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:57:03 DEBUG 240604 utils.py 107: Clustering done. Time taken 21.217 secs
+28/02/24 11:57:03 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1363.27 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1277.91 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1243.95 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1190.2 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1149.38 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1132.12 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1131.46 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1131.46 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1131.44 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1131.44 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1131.44 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1131.35 (Improved!)
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1131.35 
+28/02/24 11:57:03 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1131.35 
+28/02/24 11:57:03 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  3 10 14 15] perm_pred [5 2 1 6 0 4 3]
+28/02/24 11:57:03 CRITICAL 240604 utils.py 171: Results for 0011: Precision: 0.23716355860233307, Recall: 0.5646244307306011, IoU: 0.14226317860360393, Step wise Results: {0: {'MoF': 0.24492120751851149, 'IoU': 0.23544442416499362, 'prec': 0.8588549}, 1: {'MoF': 0.8293650793650794, 'IoU': 0.12485065710872162, 'prec': 0.12814224}, 2: {'MoF': 0.543424317617866, 'IoU': 0.1067771818625061, 'prec': 0.11730048}, 3: {'MoF': 0.0, 'IoU': 0.0, 'prec': 0.0}, 4: {'MoF': 0.8776978417266187, 'IoU': 0.12461695607763024, 'prec': 0.12681913}, 5: {'MoF': 0.5617529880478087, 'IoU': 0.13623188405797101, 'prec': 0.15243243}, 6: {'MoF': 0.8952095808383234, 'IoU': 0.267921146953405, 'prec': 0.27659574}}
+28/02/24 11:57:03 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  3 10 14 15] perm_pred [5 2 1 6 0 4 3]
+28/02/24 11:57:53 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:58:09 DEBUG 240604 utils.py 107: Clustering done. Time taken 15.889 secs
+28/02/24 11:58:09 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 832.094 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 802.007 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 784.594 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 779.304 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 773.676 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 769.693 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 769.014 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 769.014 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 768.739 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 768.657 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 767.94 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 767.75 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 766.569 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 766.45 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 766.45 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 766.443 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 766.443 (Improved!)
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 766.443 
+28/02/24 11:58:09 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 766.443 
+28/02/24 11:58:09 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  3  6 12 14 15] perm_pred [3 2 6 1 4 5 0]
+28/02/24 11:58:09 CRITICAL 240604 utils.py 171: Results for 0012: Precision: 0.327448308467865, Recall: 0.5704772807966582, IoU: 0.23905307701897366, Step wise Results: {0: {'MoF': 0.34934036939313984, 'IoU': 0.25758754863813227, 'prec': 0.49513838}, 1: {'MoF': 0.4936061381074169, 'IoU': 0.2867756315007429, 'prec': 0.4063158}, 2: {'MoF': 0.0, 'IoU': 0.0, 'prec': 0.0}, 3: {'MoF': 0.9315589353612167, 'IoU': 0.23400191021967526, 'prec': 0.23809524}, 4: {'MoF': 0.6865079365079365, 'IoU': 0.1743951612903226, 'prec': 0.1894852}, 5: {'MoF': 0.5323275862068966, 'IoU': 0.4179357021996616, 'prec': 0.6604278}, 6: {'MoF': 1.0, 'IoU': 0.30267558528428096, 'prec': 0.30267558}}
+28/02/24 11:58:09 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  3  6 12 14 15] perm_pred [3 2 6 1 4 5 0]
+28/02/24 11:58:47 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 11:59:02 DEBUG 240604 utils.py 107: Clustering done. Time taken 15.429 secs
+28/02/24 11:59:02 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 862.322 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 781.85 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 757.833 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 738.903 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 726.432 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 708.382 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 703.225 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 703.225 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 703.055 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 703.054 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 702.738 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 702.606 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 702.545 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 702.545 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 702.482 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 702.48 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 702.304 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 702.304 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 702.304 (Improved!)
+28/02/24 11:59:02 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 702.304 
+28/02/24 11:59:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 702.304 
+28/02/24 11:59:02 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6  9 13 15] perm_pred [1 6 2 4 3 0 5]
+28/02/24 11:59:02 CRITICAL 240604 utils.py 171: Results for 0013: Precision: 0.36294302344322205, Recall: 0.6925449826281584, IoU: 0.2743028651751956, Step wise Results: {0: {'MoF': 0.3076923076923077, 'IoU': 0.2720559657986786, 'prec': 0.7014028}, 1: {'MoF': 0.5102040816326531, 'IoU': 0.1342281879194631, 'prec': 0.1540832}, 2: {'MoF': 0.828, 'IoU': 0.22549019607843138, 'prec': 0.23657143}, 3: {'MoF': 0.9685534591194969, 'IoU': 0.2641509433962264, 'prec': 0.26643598}, 4: {'MoF': 0.7109634551495017, 'IoU': 0.30440967283072545, 'prec': 0.3474026}, 5: {'MoF': 0.7874015748031497, 'IoU': 0.2466091245376079, 'prec': 0.2642008}, 6: {'MoF': 0.735, 'IoU': 0.47317596566523606, 'prec': 0.57050455}}
+28/02/24 11:59:02 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6  9 13 15] perm_pred [1 6 2 4 3 0 5]
+28/02/24 11:59:49 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:00:05 DEBUG 240604 utils.py 107: Clustering done. Time taken 15.886 secs
+28/02/24 12:00:05 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 832.387 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 801.94 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 778.272 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 772.307 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 771.69 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 769.777 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 746.021 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 746.021 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 745.984 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 745.984 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 745.739 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 738.679 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 737.103 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 737.103 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 737.103 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 737.103 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 737.103 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 737.091 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 737.091 (Improved!)
+28/02/24 12:00:05 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 737.091 
+28/02/24 12:00:05 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 737.091 
+28/02/24 12:00:05 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  8 10 12 15 17] perm_pred [6 0 3 2 5 1 4]
+28/02/24 12:00:05 CRITICAL 240604 utils.py 171: Results for 0014: Precision: 0.3323492705821991, Recall: 0.632148766736172, IoU: 0.23153762982474357, Step wise Results: {0: {'MoF': 0.23244929797191888, 'IoU': 0.2087809434843531, 'prec': 0.6721805}, 1: {'MoF': 1.0, 'IoU': 0.19838056680161945, 'prec': 0.19838056}, 2: {'MoF': 0.7653061224489796, 'IoU': 0.25862068965517243, 'prec': 0.28089887}, 3: {'MoF': 0.5084745762711864, 'IoU': 0.24096385542168675, 'prec': 0.31413612}, 4: {'MoF': 0.8225806451612904, 'IoU': 0.21794871794871795, 'prec': 0.22869955}, 5: {'MoF': 0.5844660194174758, 'IoU': 0.2283763277693475, 'prec': 0.27264494}, 6: {'MoF': 0.5117647058823529, 'IoU': 0.2676923076923077, 'prec': 0.35950413}}
+28/02/24 12:00:05 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  8 10 12 15 17] perm_pred [6 0 3 2 5 1 4]
+28/02/24 12:01:12 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:01:32 DEBUG 240604 utils.py 107: Clustering done. Time taken 19.851 secs
+28/02/24 12:01:32 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1065.62 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1020.29 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1014.32 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1003.85 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 997.704 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 982.28 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 977.186 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 977.186 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 977.171 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 975.915 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 974.844 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 974.817 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 974.817 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 974.817 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 974.817 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 974.817 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 974.293 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 974.283 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 974.283 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 974.283 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 974.283 (Improved!)
+28/02/24 12:01:32 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 974.283 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 974.283 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 974.283 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 974.283 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 974.283 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 974.283 
+28/02/24 12:01:32 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 974.283 
+28/02/24 12:01:32 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5  6 12 15] perm_pred [3 6 5 0 4 2 1]
+28/02/24 12:01:32 CRITICAL 240604 utils.py 171: Results for 0015: Precision: 0.3315286934375763, Recall: 0.6615598149369427, IoU: 0.2142108224469295, Step wise Results: {0: {'MoF': 0.22795389048991355, 'IoU': 0.22144456886898095, 'prec': 0.88577825}, 1: {'MoF': 0.5415384615384615, 'IoU': 0.2148962148962149, 'prec': 0.26268658}, 2: {'MoF': 0.5695538057742782, 'IoU': 0.1918656056587091, 'prec': 0.22440538}, 3: {'MoF': 0.8622950819672132, 'IoU': 0.3937125748502994, 'prec': 0.4201278}, 4: {'MoF': 0.4295774647887324, 'IoU': 0.17086834733893558, 'prec': 0.2210145}, 5: {'MoF': 1.0, 'IoU': 0.18757612667478685, 'prec': 0.18757613}, 6: {'MoF': 1.0, 'IoU': 0.11911231884057971, 'prec': 0.11911232}}
+28/02/24 12:01:32 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  5  6 12 15] perm_pred [3 6 5 0 4 2 1]
+28/02/24 12:02:41 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:03:02 DEBUG 240604 utils.py 107: Clustering done. Time taken 21.331 secs
+28/02/24 12:03:02 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1445.03 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1441.8 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1338.88 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1337.71 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1285.12 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1275.51 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1267.26 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1267.26 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1266.3 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1265.82 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1263.1 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1262.49 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1262.2 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1262.2 
+28/02/24 12:03:02 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1262.2 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1262.2 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1262.2 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1262.06 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1262.06 (Improved!)
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 171: Cycle 4...
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1262.06 
+28/02/24 12:03:02 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1262.06 
+28/02/24 12:03:02 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6  8 13 14] perm_pred [4 3 1 0 5 6 2]
+28/02/24 12:03:02 CRITICAL 240604 utils.py 171: Results for 0016: Precision: 0.30660775303840637, Recall: 0.5716769879930368, IoU: 0.18285670931000025, Step wise Results: {0: {'MoF': 0.2886188941234813, 'IoU': 0.24229808492922564, 'prec': 0.6015504}, 1: {'MoF': 0.3714637146371464, 'IoU': 0.26514486391571557, 'prec': 0.48089173}, 2: {'MoF': 0.35607094133697137, 'IoU': 0.26962809917355374, 'prec': 0.52620965}, 3: {'MoF': 0.16158536585365854, 'IoU': 0.06332138590203107, 'prec': 0.09430605}, 4: {'MoF': 0.824, 'IoU': 0.12964128382630585, 'prec': 0.13333334}, 5: {'MoF': 1.0, 'IoU': 0.1966335118592196, 'prec': 0.19663352}, 6: {'MoF': 1.0, 'IoU': 0.11332973556395035, 'prec': 0.11332974}}
+28/02/24 12:03:02 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6  8 13 14] perm_pred [4 3 1 0 5 6 2]
+28/02/24 12:03:59 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:04:19 DEBUG 240604 utils.py 107: Clustering done. Time taken 20.35 secs
+28/02/24 12:04:19 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1179.33 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1141.86 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1131.04 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1126.98 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1126.02 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1125.08 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1106.84 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1106.84 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1106.8 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1104.9 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1102.41 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1096.74 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1095.25 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1094.1 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1094.1 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1094.1 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1094.1 (Improved!)
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1094.1 
+28/02/24 12:04:19 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1094.1 
+28/02/24 12:04:19 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2 13 14 15 17] perm_pred [3 4 6 0 5 1 2]
+28/02/24 12:04:19 CRITICAL 240604 utils.py 171: Results for 0017: Precision: 0.3222845494747162, Recall: 0.5204150979857267, IoU: 0.1890521649085763, Step wise Results: {0: {'MoF': 0.21044353570305127, 'IoU': 0.19922572960095294, 'prec': 0.7889151}, 1: {'MoF': 0.36065573770491804, 'IoU': 0.14798206278026907, 'prec': 0.2006079}, 2: {'MoF': 1.0, 'IoU': 0.1994106090373281, 'prec': 0.1994106}, 3: {'MoF': 0.14965034965034965, 'IoU': 0.08813838550247118, 'prec': 0.17656766}, 4: {'MoF': 0.5231316725978647, 'IoU': 0.35336538461538464, 'prec': 0.5212766}, 5: {'MoF': 0.6390243902439025, 'IoU': 0.21266233766233766, 'prec': 0.24169742}, 6: {'MoF': 0.76, 'IoU': 0.12258064516129032, 'prec': 0.12751678}}
+28/02/24 12:04:19 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2 13 14 15 17] perm_pred [3 4 6 0 5 1 2]
+28/02/24 12:06:22 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:06:51 DEBUG 240604 utils.py 107: Clustering done. Time taken 28.785 secs
+28/02/24 12:06:51 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 2024.95 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1901.89 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1864.72 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1793.88 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1781.56 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1720.64 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1699.6 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1699.6 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1698.76 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1697.1 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1695.32 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1693.64 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1693.52 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1693.51 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1693.49 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1693.49 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1693.46 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1693.46 (Improved!)
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1693.46 
+28/02/24 12:06:51 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1693.46 
+28/02/24 12:06:51 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  5  9 10 12 15] perm_pred [3 2 5 6 4 0 1]
+28/02/24 12:06:51 CRITICAL 240604 utils.py 171: Results for 0018: Precision: 0.25263485312461853, Recall: 0.6221993230366503, IoU: 0.18727844298620072, Step wise Results: {0: {'MoF': 0.29536290322580644, 'IoU': 0.23165107392278297, 'prec': 0.5178203}, 1: {'MoF': 1.0, 'IoU': 0.167693036475604, 'prec': 0.16769303}, 2: {'MoF': 0.781591263650546, 'IoU': 0.23971291866028707, 'prec': 0.25692308}, 3: {'MoF': 0.7811550151975684, 'IoU': 0.17318059299191374, 'prec': 0.18201134}, 4: {'MoF': 0.3167305236270754, 'IoU': 0.133764832793959, 'prec': 0.18802123}, 5: {'MoF': 1.0, 'IoU': 0.261703760552571, 'prec': 0.26170376}, 6: {'MoF': 0.18055555555555555, 'IoU': 0.10324288550628723, 'prec': 0.19427148}}
+28/02/24 12:06:51 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  5  9 10 12 15] perm_pred [3 2 5 6 4 0 1]
+28/02/24 12:07:39 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:07:58 DEBUG 240604 utils.py 107: Clustering done. Time taken 18.853 secs
+28/02/24 12:07:58 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 998.767 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 983.849 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 948.153 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 937.129 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 924.163 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 907.21 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 903.472 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 903.472 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 903.42 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 903.351 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 902.907 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 902.183 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 902.183 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 902.183 
+28/02/24 12:07:58 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 902.183 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 902.183 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 902.181 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 902.181 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 902.181 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 902.181 (Improved!)
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 171: Cycle 4...
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 902.181 
+28/02/24 12:07:58 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 902.181 
+28/02/24 12:07:58 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  9 10 13 15] perm_pred [3 2 0 1 6 4 5]
+28/02/24 12:07:58 CRITICAL 240604 utils.py 171: Results for 0019: Precision: 0.4334968626499176, Recall: 0.7598949365161738, IoU: 0.33209118773716906, Step wise Results: {0: {'MoF': 0.2703287197231834, 'IoU': 0.23602719033232628, 'prec': 0.6503642}, 1: {'MoF': 1.0, 'IoU': 0.15877712031558186, 'prec': 0.15877712}, 2: {'MoF': 0.6252100840336134, 'IoU': 0.4603960396039604, 'prec': 0.63589746}, 3: {'MoF': 0.7383512544802867, 'IoU': 0.26788036410923277, 'prec': 0.29597703}, 4: {'MoF': 0.9776119402985075, 'IoU': 0.46785714285714286, 'prec': 0.47292417}, 5: {'MoF': 0.7077625570776256, 'IoU': 0.41722745625841184, 'prec': 0.50406504}, 6: {'MoF': 1.0, 'IoU': 0.316473000683527, 'prec': 0.316473}}
+28/02/24 12:07:58 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  9 10 13 15] perm_pred [3 2 0 1 6 4 5]
+28/02/24 12:09:12 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:09:34 DEBUG 240604 utils.py 107: Clustering done. Time taken 21.286 secs
+28/02/24 12:09:34 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1367.09 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1320.9 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1305.14 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1236.99 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1225.79 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1218.39 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1191.95 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1191.95 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1191.71 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1190.04 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1188.9 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1188.79 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1186.42 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1186.3 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1186.3 (Improved!)
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 171: Cycle 3...
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 1186.3 
+28/02/24 12:09:34 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 1186.3 
+28/02/24 12:09:34 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6 10 13 15] perm_pred [3 0 6 5 1 2 4]
+28/02/24 12:09:34 CRITICAL 240604 utils.py 171: Results for 0020: Precision: 0.2242497354745865, Recall: 0.48696908427296826, IoU: 0.15892329790697746, Step wise Results: {0: {'MoF': 0.23393124065769805, 'IoU': 0.1738888888888889, 'prec': 0.40387097}, 1: {'MoF': 0.5152671755725191, 'IoU': 0.16503667481662593, 'prec': 0.19536904}, 2: {'MoF': 0.30177514792899407, 'IoU': 0.16363636363636364, 'prec': 0.26333907}, 3: {'MoF': 0.594170403587444, 'IoU': 0.2605703048180924, 'prec': 0.31698564}, 4: {'MoF': 0.7365269461077845, 'IoU': 0.0984, 'prec': 0.10199005}, 5: {'MoF': 0.925, 'IoU': 0.20354523227383864, 'prec': 0.20696084}, 6: {'MoF': 0.10211267605633803, 'IoU': 0.04738562091503268, 'prec': 0.081232496}}
+28/02/24 12:09:34 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  6 10 13 15] perm_pred [3 0 6 5 1 2 4]
+28/02/24 12:09:34 CRITICAL 240604 utils.py 103: Running Fuzzy CMeans...
+28/02/24 12:11:42 DEBUG 240604 utils.py 107: Clustering done. Time taken 128.076 secs
+28/02/24 12:11:42 INFO 240604 fastmin.py 171: Cycle 0...
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 3454.21 (Improved!)
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 3449.07 (Improved!)
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 3422.05 (Improved!)
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 3389.1 (Improved!)
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 3389.1 (Improved!)
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 171: Cycle 1...
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 3389.1 (Improved!)
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 3389.1 (Improved!)
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 171: Cycle 2...
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=0): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=1): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=2): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=3): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=4): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=5): 3389.1 
+28/02/24 12:11:42 INFO 240604 fastmin.py 182: Energy of the last cut (α=6): 3389.1 
+28/02/24 12:11:42 CRITICAL 240604 metrics.py  67: perm_gt [ 0  1  2  9 10 13 15] perm_pred [2 3 0 1 6 4 5]
+28/02/24 12:11:42 CRITICAL 240604 procedure_learning_per_keystep.py 235: Average precision: 0.289699198192909 Average recall: 0.6052445292509584 Average IoU: 0.20231330977307302 Average F1: 0.3918433069204229

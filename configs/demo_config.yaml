@@ -1,0 +1,33 @@
+CMU_KITCHENS:
+  METADATA_FILE: ./annotations/metadata/CMU_Kitchens/tasks.txt
+  VIDEOS_PATH: ./Datasets/CMU_Kitchens
+  ANNS_PATH: ./Datasets/annotations/CMU_Kitchens
+  FRAMES_PATH: ./Datasets/CMU_Kitchens/frames
+  VIEW: ego
+ANNOTATION:
+  CATEGORY: Sandwich
+DATA_LOADER:
+  NUM_WORKERS: 0
+  SHUFFLE: False
+  CROP_SIZE: 224
+  SAMPLING_FPS: 2
+  PIN_MEMORY: True
+MISC:
+  DEBUG_VIZ_PATH: ""
+  VERBOSE: True
+LOG:
+  DIR: ./logs/meccano
+  LEVEL: debug
+TCC:
+  DATA_PATH: ./Datasets/MECCANO
+  TRAIN_EPOCHS: 10000
+  KMEANS_NUM_CLUSTERS: 7
+  BATCH_SIZE: 2
+  NUM_FRAMES: 32
+  NUM_CONTEXT_STEPS: 2
+  CONTEXT_STRIDE: 15
+  LSTM: False
+  BILSTM: False
+LAV:
+  USE_CIDM: True
+  CONTRIB_PERCENT: 0.1
